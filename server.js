@@ -9,5 +9,10 @@ const connection = mysql.createConnection({
     database: ''
 });
 
-
+const questions [{
+    type: 'list',
+    name: 'option',
+    message: 'Which Department would you like to look at?',
+    choices: ['IT', 'HR', 'Finance', 'Marketing', 'Marketing', 'Engineering']
+}]
 
