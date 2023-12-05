@@ -6,6 +6,6 @@ INSERT INTO employees (name, department, position) VALUES
 ('Jane Smith', 'HR', 'HR Specialist'),
 ('Bob Ross', 'Finance', 'Financial Analyst'),
 ('Mike Ross', 'Marketing', 'Marketing Coordinator'),
-('Ana Williams', 'Engineering', 'Petroleium Engineer');
+('Ana Williams', 'Engineering', 'Petroleum Engineer');
 
 
