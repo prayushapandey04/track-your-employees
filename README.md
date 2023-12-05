@@ -29,7 +29,7 @@ This app uses Node.js, MySQL Workbench, Inquirer
 
 ## License
 
-This repo is under the MIT License
+This repo is under the MIT License (please see the license in this repo).
 
 ## Questions
 
