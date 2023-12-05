@@ -25,7 +25,7 @@ No contributions but if you would like to, please fork the repo and create your 
 
 ## Technologies
 
-This app uses Node.js, MySQL Workbench, Inquirer
+This app uses Node.js, MySQL Workbench, Inquirer.
 
 ## License
 
